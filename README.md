@@ -1,8 +1,4 @@
 # CMOS-Inverter
-Here’s a modified and summarized version for your GitHub README:
-
----
-
 ## Project Overview
 
 This project aims to experiment with the working of an inverter and to understand the various parameters involved, using the SkyWater 130nm PDK and open-source tools like Xschem, NGSPICE, MAGIC, and Netgen.
